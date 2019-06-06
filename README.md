@@ -1,4 +1,4 @@
-# remove-silence-wav
+# remove-silence-from-wav
 silence_removal.py is a python3 script that removes the silence in sound files at the beggining and the end of the sound file.
 
 It uses the pydub library:
